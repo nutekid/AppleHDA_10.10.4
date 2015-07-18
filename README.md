@@ -15,7 +15,7 @@
  
 1 - OSX Versions Supported:
  
- 1- Supported Versions of System are: Yosemite 10.10.2
+ 1- Supported Versions of System are: Yosemite 10.10.4
  
  2- You must have one of the following DEVICE_ID/Codec name described below or attached here:
  
