@@ -3,7 +3,7 @@
 
 #### . New Users/First Experience with AppleHDA: 
  
-1 - Identifying Your Audio codec
+1 - Identifying Your Audio codec:
 
  1 - Read the manufacturer's manual or use DPCI Manager.
  
