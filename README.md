@@ -53,8 +53,11 @@
 1 - Methods: Clover/DSDT/HDEnabler/Chameleon.
  
  1 - DSDT/HDEF/Layout_id = Audio_id
+ 
  2 - HDAEnablerX.kext (where "X" corresponds to the number of Audio_ID / desired Layout_ID)
+ 
  3 - Clover/Config.plist/Devices/Audio/Inject=Audio_ID
+ 
  4 - Chameleon Installer/Customize/Setting/HDEF Layout/
  
  Note: Use only one of the methods described above.
@@ -76,7 +79,9 @@
 1 - Requirements/mode:
  
  1 - Install in S/L/E.
+ 
  2 - After installing repair permissions and rebuild caches use an application of your choice.
+ 
  3 - Use this flag is mandatory:kext-dev-mode=1 (Only For Yosemite)
  
 
